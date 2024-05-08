@@ -3,7 +3,7 @@ Banking system using the client-server model to establish connection between two
 
 
 ## Client Model 
-1. Main Program (main.cpp):
+**1. Main Program (main.cpp):**
 *Entry point of the application.
 * Handles user input to determine whether the user is a regular user or an admin.
 * Instantiates UserManager or AdminManager based on user input.
@@ -11,7 +11,7 @@ Banking system using the client-server model to establish connection between two
 * Exits the application when the user chooses to exit.
 
 
-2. Client Class (client.h, client.cpp):
+ **2. Client Class (client.h, client.cpp):**
 * Base class for UserManager and AdminManager.
 * Defines pure virtual functions for handling account-related operations such as
   *  getting the account number.
@@ -21,7 +21,7 @@ Banking system using the client-server model to establish connection between two
   *  performing login.
 * Contains a method to clear the console screen.
 
-3. UserManager Class (user.h, user.cpp):
+**3. UserManager Class (user.h, user.cpp):**
 * Inherits from Client class.
 * Implements user-specific functionalities such as:
   *  transferring accounts.
@@ -31,7 +31,7 @@ Banking system using the client-server model to establish connection between two
   *  logging in.
 * Manages the client-side communication with the server.
 
-4. AdminManager Class (admin.h, admin.cpp):
+**4. AdminManager Class (admin.h, admin.cpp):**
 Inherits from Client class.
 Implements admin-specific functionalities such as viewing account details, getting account numbers, viewing bank database, creating new users, deleting users, updating user data, viewing transaction history, and logging in.
 Manages the client-side communication with the server.
