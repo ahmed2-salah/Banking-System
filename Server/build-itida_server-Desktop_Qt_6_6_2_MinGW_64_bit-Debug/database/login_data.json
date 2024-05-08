@@ -1,0 +1,20 @@
+{
+    "admins": [
+        {
+            "Ahmed": {
+                "password": "123456"
+            },
+            "Ali": {
+                "password": "000000"
+            }
+        }
+    ],
+    "users": [
+        {
+            "taha": {
+                "accountnumber": "1987",
+                "password": "123456"
+            }
+        }
+    ]
+}

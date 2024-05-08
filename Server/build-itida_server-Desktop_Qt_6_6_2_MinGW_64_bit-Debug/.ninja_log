@@ -1,0 +1,10 @@
+# ninja log v5
+51	1716	7368593812218911	itida_server_autogen/timestamp	35a48c9ce5bdbbd7
+51	1716	7368593812218911	itida_server_autogen/mocs_compilation.cpp	35a48c9ce5bdbbd7
+51	1716	7368593812218911	G:/00-IMT_ITIDA/FinalProject/final/Serverr/build-itida_server-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/itida_server_autogen/timestamp	35a48c9ce5bdbbd7
+51	1716	7368593812218911	G:/00-IMT_ITIDA/FinalProject/final/Serverr/build-itida_server-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/itida_server_autogen/mocs_compilation.cpp	35a48c9ce5bdbbd7
+1720	6263	7368593858120571	CMakeFiles/itida_server.dir/main.cpp.obj	3ec7371249ac74b0
+1717	6268	7368593858160460	CMakeFiles/itida_server.dir/itida_server_autogen/mocs_compilation.cpp.obj	74d2dbbeb61328f9
+1723	6317	7368593858659119	CMakeFiles/itida_server.dir/server.cpp.obj	d81fe21f663584d2
+1727	6626	7368593861720939	CMakeFiles/itida_server.dir/database.cpp.obj	1d9b9a98f71130
+6626	8640	7368593881861959	itida_server.exe	2ab45b31a81ed379
