@@ -1,0 +1,11 @@
+# ninja log v5
+28	5782	7368594069966858	itida_client_autogen/timestamp	876d8b48d5847947
+28	5782	7368594069966858	itida_client_autogen/mocs_compilation.cpp	876d8b48d5847947
+28	5782	7368594069966858	G:/00-IMT_ITIDA/FinalProject/final/clientt/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/itida_client_autogen/timestamp	876d8b48d5847947
+28	5782	7368594069966858	G:/00-IMT_ITIDA/FinalProject/final/clientt/build-itida_client-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/itida_client_autogen/mocs_compilation.cpp	876d8b48d5847947
+5782	16535	7368594176963521	CMakeFiles/itida_client.dir/itida_client_autogen/mocs_compilation.cpp.obj	933e1749b4834104
+5790	16545	7368594177272681	CMakeFiles/itida_client.dir/user.cpp.obj	da321a40cd94c0c2
+5794	16546	7368594178180279	CMakeFiles/itida_client.dir/admin.cpp.obj	b74eaa51a0178df0
+5786	16548	7368594177432261	CMakeFiles/itida_client.dir/main.cpp.obj	c68478fd15eb6b37
+5798	16549	7368594176774015	CMakeFiles/itida_client.dir/client.cpp.obj	d64412873fb5b56d
+16549	19207	7368594205024468	itida_client.exe	ab65b7930e42a7ca
