@@ -2,6 +2,7 @@
 Banking system using the client-server model to establish connection between two machines  as a server and client using Tcp socket.
 
 ## Sequence diagram
+![Sequence diagram of Bank](https://github.com/ahmed2-salah/Banking-System/assets/90197922/446c95f5-5902-473f-9aa1-e1be6b2e8918)
 
 ## Client Model 
 **1. Main Program (main.cpp):**
