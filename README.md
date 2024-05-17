@@ -73,3 +73,6 @@ This hierarchy outlines the structure of the project, with clear separation of c
 
 ## Data Base
 The database is implemented using JSON file structure JavaScript Object Notation (JSON) is a standard text-based format for representing structured data based on JavaScript object syntax. It is commonly used for transmitting data in web applications (e.g., sending some data from the server to the client, so it can be displayed on a web page, or vice versa).
+
+![Screenshot (881)](https://github.com/ahmed2-salah/Banking-System/assets/90197922/2f23dcdd-4d8c-40e1-b981-8e9979cd0cf9)
+
