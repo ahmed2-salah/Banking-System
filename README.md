@@ -50,6 +50,9 @@ Banking system using the client-server model to establish connection between two
 The project relies on the Qt framework for networking (QTcpSocket), data serialization/deserialization (QDataStream), signal-slot mechanism, and other functionalities provided by Qt classes.
 This hierarchy outlines the structure of the project, with clear separation of concerns between different classes responsible for handling user interactions, server communication, and business logic.
 
+**6. Connection between Client Server:**
+
+![handshake-1](https://github.com/ahmed2-salah/Banking-System/assets/90197922/431a73ca-bcd5-4bd8-b4ab-557259e98e5e)
 
 
 ## Server Model
